@@ -9,7 +9,7 @@ body {
   color: #e6edf3;
   line-height: 1.6;
   background-image: linear-gradient(rgba(10, 18, 30, 0.88), rgba(10, 18, 30, 0.9)),
-    url("images/steam-bg.jpg");
+    url("steam-bg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
